@@ -1,0 +1,14 @@
+body {
+    margin: 0 auto;
+    font-size: 30px;
+    max-width: 1000px;
+}
+
+.columns {
+    display: flex;
+    justify-content: space-between;
+}
+
+.column {
+
+}
